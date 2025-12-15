@@ -1,6 +1,8 @@
 # CELINE Project
 
-![CELINE Project logo](Celine_Logo_Color.png)
+<p style="text-align:center">
+    <img src="Celine_Logo_Color.png" alt="CELINE Project logo" style="width: 300px" />
+</p>
 
 **CELINE** is driving the digital transformation of energy communities across Europe — making local energy smarter, greener, and more inclusive. 
 At its core is a **Digital Toolbox** that empowers households and community groups to manage energy, 
